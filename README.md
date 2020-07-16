@@ -3,7 +3,10 @@
 
 Updates made on master on Github before rebase applied
 
+
+## Purpose
+
+This file is just a readme file
+
 ## Repository Purpose 
-This is a change that conflicts with 
-whatever is there placed on the remote
-side. This was edited locally.
+This file is just a readme file
