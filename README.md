@@ -1,6 +1,4 @@
 # my-website
 #my-own-website
 
-Now editing on update-readme branch
-
-Updated locally...
+Updates made on master on Github before rebase applied
